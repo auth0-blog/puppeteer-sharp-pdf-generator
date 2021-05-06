@@ -2,6 +2,8 @@
 
 This is a .NET Core Console application that generates PDF documents from websites, using [Puppeteer Sharp](https://github.com/hardkoded/puppeteer-sharp) library for browser automation.
 
+Checkout [PDF Generation with Puppeteer Sharp](https://auth0.com/blog/pdf-generation-with-puppeteer-sharp) article for more details.
+
 # Required technologies
 
 Platform: .NET Core  
